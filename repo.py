@@ -1,4 +1,4 @@
 input = "Hello World"
 print(input)
-a = " hello how r u "
+a = " hello how are you "
 print(a)
